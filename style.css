@@ -6,7 +6,7 @@ body{
     height:100vh;
     background-color: rgb(255, 255, 255);
 }
-#calculator{
+#calculate{
     font-family:Arial, Helvetica, sans-serif;
     background-color: rgb(46, 40, 40);
     border-radius:15px;
